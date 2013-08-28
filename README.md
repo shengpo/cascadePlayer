@@ -3,6 +3,11 @@ cascadePlayer
 
 cascadePlayer 架構是以 Processing + mpe library + mappingtools library 為基礎開發，支援多個 cascadePlayer 同步播放，全螢幕播放及 projection mapping 校正，並允許使用者依照需求做擴充及修改
 
+測試影片
+========
+- 動畫繪圖 http://youtu.be/UDGGvhfAw3U 同步結果OK
+- 載入影片 http://youtu.be/8-xDG7PdlGA 同步結果有待改進
+
 
 使用須知
 --------
